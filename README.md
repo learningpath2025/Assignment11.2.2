@@ -15,3 +15,7 @@
 - Output: []
 
 - Leetcode Link: https://leetcode.com/problems/reverse-linked-list/
+
+- Two pointer solution
+ 
+![Two Pointer Solution](diagram.png)
